@@ -54,6 +54,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function removeCompletedTask(task) {
-        // You can implement your logic to handle removing completed tasks from storage, etc.
+        
     }
 });
